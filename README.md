@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing.
 - 🌱 I’m currently learning Pythone and ML.
 - 💞️ I’m looking to collaborate on SE.
-- 📫 How to reach me yao919995873@gmail.com
+- 📫 You can reach me yao919995873@gmail.com
 
 <!---
 YAOLEI-hub/YAOLEI-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
